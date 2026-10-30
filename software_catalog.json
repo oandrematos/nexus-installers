@@ -2,7 +2,7 @@
   "store_name": "Nexus Store",
   "developer": "André (Antigravity)",
   "schema_version": "3.0.0",
-  "updated_at": "2026-10-30T10:01:00-03:00",
+  "updated_at": "2026-10-30T18:18:00-03:00",
   "categories": [
     {
       "id": "games",
@@ -41,27 +41,28 @@
         "android",
         "windows"
       ],
-      "version": "0.9.9",
+      "version": "0.9.10",
       "android": {
-        "filename": "ThreadsDL_Android_v0.9.9.apk",
+        "filename": "ThreadsDL_Android_v0.9.10.apk",
         "size_mb": 26.4,
-        "version": "0.9.9",
+        "version": "0.9.10",
+        "version_code": 1000,
         "package_name": "com.andre.threadsdl",
-        "sha256": "A9A19F1AFED24BBC0CCA332597E6EA1B2621EBCCF79B2C757ADA4BF62EBADB30"
+        "sha256": "07106832784AAD91E2D84BBDA62009CE5D211D08957E08B08B9ABDB686C27DF4"
       },
       "windows": {
-        "filename": "ThreadsDL_v0.9.9_Installer.exe",
+        "filename": "ThreadsDL_v0.9.10_Installer.exe",
         "size_mb": 15.0,
-        "version": "0.9.9",
+        "version": "0.9.10",
         "executable": "ThreadsDL.exe",
-        "sha256": "4C577178D660D04ED434611C4D691188D363B112D7B23CA9999039C55BC87769"
+        "sha256": "006BE26FF1B1BF10C639D04D27F0FBAF75470624D4F9F7A73FF12F34799BA89D"
       },
       "github_repo": "ThreadsDL",
       "latest_changelog": [
-        "Restauracao da chave criptografica original (SHA-256 0D:6B:49:F9...) para atualizacao OTA direta sem conflito de assinatura",
-        "Suporte nativo completo a Stories e Destaques (Highlights) do Instagram via link",
-        "Suporte a links encurtados (/s/, /share/reel/, /share/p/) do Instagram e Threads",
-        "Extracao individualizada de multi-videos em carrosseis com botao 'Baixar Todos os Videos'"
+        "Fix definitivo na extração e download de vídeos dos Stories do Instagram (timeout estendido de 7s para 25s para Stories não cacheados)",
+        "Parser de blocos HTML SnapSave corrigido (class=download-items) preservando flag isVideo, thumbnail e link de cada item",
+        "Priorização automática de vídeo em perfis com múltiplos Stories mistos (fotos + vídeos) e fallback CDN via proxy rapidcdn",
+        "Atualização da rota pública Cloudflare OTA e limpeza de parâmetros mdxt em links de Stories"
       ]
     },
     {
@@ -1600,21 +1601,23 @@
         "android"
       ],
       "android": {
-        "filename": "SymbianLauncher_Android_v0.3.32.apk",
-        "version": "0.3.32",
-        "version_code": 35,
+        "filename": "SymbianLauncher_Android_v0.3.38.apk",
+        "version": "0.3.38",
+        "version_code": 41,
         "package_name": "com.nexus.symbianlauncher",
-        "sha256": "F0F49CF349F47D0D345ACFE81A6435CBCD37EB80A2A3DD0E4AB59E7223CF86D5",
-        "size_mb": 25.86,
+        "sha256": "C8E2BC5485CFC52F246C20B8669D7B2570B758550E7250B5CE371A681BA1F560",
+        "size_mb": 25.87,
         "latest_changelog": [
-          "OTA de qualquer lugar: catalogo e APK no espelho publico do GitHub; bateria unica na status bar."
+          "O launcher volta sozinho para a tela inicial depois de ser atualizado (não fica mais preso no launcher antigo).",
+          "Instalação automática pós-atualização via alarme do sistema."
         ],
-        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQDHNL-S9IZrS43bgciLn1pcAcGUr6_HmPjmwETYO9wCDsY",
-        "fallback_download_url": "https://raw.githubusercontent.com/oandrematos/nexus-installers/main/SymbianLauncher_Android_v0.3.32.apk"
+        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQAvATkMeC3xSqoNzHC-ILAuASZ8YQ9D_fAzMlIKE5Pa9Vs",
+        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.38.apk"
       },
-      "version": "0.3.32",
+      "version": "0.3.38",
       "latest_changelog": [
-        "OTA publica (GitHub raw) + bateria unica."
+        "O launcher volta sozinho para a tela inicial depois de ser atualizado (não fica mais preso no launcher antigo).",
+        "Instalação automática pós-atualização via alarme do sistema."
       ],
       "banner": "",
       "banner_card": "",
