@@ -2,7 +2,7 @@
   "store_name": "Nexus Store",
   "developer": "André (Antigravity)",
   "schema_version": "3.0.0",
-  "updated_at": "2026-10-30T18:18:00-03:00",
+  "updated_at": "2026-10-30T19:17:00-03:00",
   "categories": [
     {
       "id": "games",
@@ -1601,23 +1601,29 @@
         "android"
       ],
       "android": {
-        "filename": "SymbianLauncher_Android_v0.3.38.apk",
-        "version": "0.3.38",
-        "version_code": 41,
+        "filename": "SymbianLauncher_Android_v0.3.41.apk",
+        "version": "0.3.41",
+        "version_code": 44,
         "package_name": "com.nexus.symbianlauncher",
-        "sha256": "C8E2BC5485CFC52F246C20B8669D7B2570B758550E7250B5CE371A681BA1F560",
-        "size_mb": 25.87,
+        "sha256": "9DC30B8D001D0868E02EAA36DA62666AA3636D02BDAAA562059225F1289534C6",
+        "size_mb": 26.54,
         "latest_changelog": [
-          "O launcher volta sozinho para a tela inicial depois de ser atualizado (não fica mais preso no launcher antigo).",
-          "Instalação automática pós-atualização via alarme do sistema."
+          "Bateria e sinal no estilo Symbian: só as barras, medindo o nível real do aparelho.",
+          "Relógio da home atualiza sozinho a cada minuto.",
+          "Rolagem infinita nas telas iniciais.",
+          "Barra do menu igual às demais telas, com efeito de apertar o botão.",
+          "Voltar de um app retorna ao menu que estava aberto, sem piscar a home."
         ],
-        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQAvATkMeC3xSqoNzHC-ILAuASZ8YQ9D_fAzMlIKE5Pa9Vs",
-        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.38.apk"
+        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQAxyIDNBxSyQIUc9HhyKU5uAcRUM_RwyvTBNC_nSgLEWlc",
+        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.41.apk"
       },
-      "version": "0.3.38",
+      "version": "0.3.41",
       "latest_changelog": [
-        "O launcher volta sozinho para a tela inicial depois de ser atualizado (não fica mais preso no launcher antigo).",
-        "Instalação automática pós-atualização via alarme do sistema."
+        "Bateria e sinal no estilo Symbian: só as barras, medindo o nível real do aparelho.",
+        "Relógio da home atualiza sozinho a cada minuto.",
+        "Rolagem infinita nas telas iniciais.",
+        "Barra do menu igual às demais telas, com efeito de apertar o botão.",
+        "Voltar de um app retorna ao menu que estava aberto, sem piscar a home."
       ],
       "banner": "",
       "banner_card": "",
