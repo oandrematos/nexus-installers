@@ -2,7 +2,7 @@
   "store_name": "Nexus Store",
   "developer": "André (Antigravity)",
   "schema_version": "3.0.0",
-  "updated_at": "2026-10-30T19:31:00-03:00",
+  "updated_at": "2026-10-30T19:42:00-03:00",
   "categories": [
     {
       "id": "games",
@@ -1601,31 +1601,29 @@
         "android"
       ],
       "android": {
-        "filename": "SymbianLauncher_Android_v0.3.42.apk",
-        "version": "0.3.42",
-        "version_code": 45,
+        "filename": "SymbianLauncher_Android_v0.3.43.apk",
+        "version": "0.3.43",
+        "version_code": 46,
         "package_name": "com.nexus.symbianlauncher",
-        "sha256": "1D9F47085C53FA095AEE7706A7B89F5D1904DC3C1766A4B8584E9C09793A1026",
-        "size_mb": 26.54,
+        "sha256": "2360E609EA29E29622B1A1FA1C71B7999F1E11E206893C07859EB532C01C172F",
+        "size_mb": 26.64,
         "latest_changelog": [
-          "O tipo de rede (3.5G/4G/5G) agora é o real e some quando não há sinal.",
-          "Bateria e sinal no estilo Symbian: só as barras, medindo o nível real.",
+          "Widget de cima funcional: relógio abre o app Relógio, data abre o Calendário e o perfil alterna Normal/Vibrar/Silencioso.",
+          "Novo app Relógio no estilo Symbian^3, com alarmes reais (notificação e soneca do sistema).",
+          "Tipo de rede real (3.5G/4G/5G) e some quando não há sinal.",
           "Relógio da home atualiza sozinho a cada minuto.",
-          "Rolagem infinita nas telas iniciais.",
-          "Voltar de um app retorna ao menu que estava aberto, sem piscar a home.",
-          "Proteção contra OTA instalando APK antigo por engano."
+          "Rolagem infinita nas telas iniciais."
         ],
-        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQC_UWc2mg8GTK4Zp64DwVUeAbi7LVzPSrVzh9lW2ITZ0J0",
-        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.42.apk"
+        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQAP-lPWPWa3QImrhtIQr-prAa6ZgGlHJe2jscW2bex63U4",
+        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.43.apk"
       },
-      "version": "0.3.42",
+      "version": "0.3.43",
       "latest_changelog": [
-        "O tipo de rede (3.5G/4G/5G) agora é o real e some quando não há sinal.",
-        "Bateria e sinal no estilo Symbian: só as barras, medindo o nível real.",
+        "Widget de cima funcional: relógio abre o app Relógio, data abre o Calendário e o perfil alterna Normal/Vibrar/Silencioso.",
+        "Novo app Relógio no estilo Symbian^3, com alarmes reais (notificação e soneca do sistema).",
+        "Tipo de rede real (3.5G/4G/5G) e some quando não há sinal.",
         "Relógio da home atualiza sozinho a cada minuto.",
-        "Rolagem infinita nas telas iniciais.",
-        "Voltar de um app retorna ao menu que estava aberto, sem piscar a home.",
-        "Proteção contra OTA instalando APK antigo por engano."
+        "Rolagem infinita nas telas iniciais."
       ],
       "banner": "",
       "banner_card": "",
