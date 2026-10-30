@@ -1609,7 +1609,7 @@
         "latest_changelog": [
           "OTA de qualquer lugar: catalogo e APK no espelho publico do GitHub; bateria unica na status bar."
         ],
-        "download_url": "",
+        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQDHNL-S9IZrS43bgciLn1pcAcGUr6_HmPjmwETYO9wCDsY",
         "fallback_download_url": "https://raw.githubusercontent.com/oandrematos/nexus-installers/main/SymbianLauncher_Android_v0.3.32.apk"
       },
       "version": "0.3.32",
