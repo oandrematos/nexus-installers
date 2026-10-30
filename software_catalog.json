@@ -2,7 +2,7 @@
   "store_name": "Nexus Store",
   "developer": "André (Antigravity)",
   "schema_version": "3.0.0",
-  "updated_at": "2026-10-30T19:17:00-03:00",
+  "updated_at": "2026-10-30T19:31:00-03:00",
   "categories": [
     {
       "id": "games",
@@ -1601,29 +1601,31 @@
         "android"
       ],
       "android": {
-        "filename": "SymbianLauncher_Android_v0.3.41.apk",
-        "version": "0.3.41",
-        "version_code": 44,
+        "filename": "SymbianLauncher_Android_v0.3.42.apk",
+        "version": "0.3.42",
+        "version_code": 45,
         "package_name": "com.nexus.symbianlauncher",
-        "sha256": "9DC30B8D001D0868E02EAA36DA62666AA3636D02BDAAA562059225F1289534C6",
+        "sha256": "1D9F47085C53FA095AEE7706A7B89F5D1904DC3C1766A4B8584E9C09793A1026",
         "size_mb": 26.54,
         "latest_changelog": [
-          "Bateria e sinal no estilo Symbian: só as barras, medindo o nível real do aparelho.",
+          "O tipo de rede (3.5G/4G/5G) agora é o real e some quando não há sinal.",
+          "Bateria e sinal no estilo Symbian: só as barras, medindo o nível real.",
           "Relógio da home atualiza sozinho a cada minuto.",
           "Rolagem infinita nas telas iniciais.",
-          "Barra do menu igual às demais telas, com efeito de apertar o botão.",
-          "Voltar de um app retorna ao menu que estava aberto, sem piscar a home."
+          "Voltar de um app retorna ao menu que estava aberto, sem piscar a home.",
+          "Proteção contra OTA instalando APK antigo por engano."
         ],
-        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQAxyIDNBxSyQIUc9HhyKU5uAcRUM_RwyvTBNC_nSgLEWlc",
-        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.41.apk"
+        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQC_UWc2mg8GTK4Zp64DwVUeAbi7LVzPSrVzh9lW2ITZ0J0",
+        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.42.apk"
       },
-      "version": "0.3.41",
+      "version": "0.3.42",
       "latest_changelog": [
-        "Bateria e sinal no estilo Symbian: só as barras, medindo o nível real do aparelho.",
+        "O tipo de rede (3.5G/4G/5G) agora é o real e some quando não há sinal.",
+        "Bateria e sinal no estilo Symbian: só as barras, medindo o nível real.",
         "Relógio da home atualiza sozinho a cada minuto.",
         "Rolagem infinita nas telas iniciais.",
-        "Barra do menu igual às demais telas, com efeito de apertar o botão.",
-        "Voltar de um app retorna ao menu que estava aberto, sem piscar a home."
+        "Voltar de um app retorna ao menu que estava aberto, sem piscar a home.",
+        "Proteção contra OTA instalando APK antigo por engano."
       ],
       "banner": "",
       "banner_card": "",
