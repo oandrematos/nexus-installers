@@ -1600,21 +1600,21 @@
         "android"
       ],
       "android": {
-        "filename": "SymbianLauncher_Android_v0.3.31.apk",
-        "version": "0.3.31",
-        "version_code": 34,
+        "filename": "SymbianLauncher_Android_v0.3.32.apk",
+        "version": "0.3.32",
+        "version_code": 35,
         "package_name": "com.nexus.symbianlauncher",
-        "sha256": "E1F733BA45CF542D9A631D737CBEF238BB82A3C7B448A0537A9EE9F803719B8A",
+        "sha256": "F0F49CF349F47D0D345ACFE81A6435CBCD37EB80A2A3DD0E4AB59E7223CF86D5",
         "size_mb": 25.86,
         "latest_changelog": [
-          "Teste do fluxo OTA completo no S10+."
+          "OTA de qualquer lugar: catalogo e APK no espelho publico do GitHub; bateria unica na status bar."
         ],
-        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQBBOfM7LcI4S7_tncbmRsATAXuqzU3u0tdEcAY1k95cD1Q",
-        "fallback_download_url": "http://192.168.196.101/installers/SymbianLauncher_Android_v0.3.31.apk"
+        "download_url": "",
+        "fallback_download_url": "https://raw.githubusercontent.com/oandrematos/nexus-installers/main/SymbianLauncher_Android_v0.3.32.apk"
       },
-      "version": "0.3.31",
+      "version": "0.3.32",
       "latest_changelog": [
-        "Teste do fluxo OTA completo."
+        "OTA publica (GitHub raw) + bateria unica."
       ],
       "banner": "",
       "banner_card": "",
