@@ -2,7 +2,7 @@
   "store_name": "Nexus Store",
   "developer": "André (Antigravity)",
   "schema_version": "3.0.0",
-  "updated_at": "2026-10-31T09:40:00-03:00",
+  "updated_at": "2026-10-31T10:25:00-03:00",
   "categories": [
     {
       "id": "games",
@@ -1601,25 +1601,29 @@
         "android"
       ],
       "android": {
-        "filename": "SymbianLauncher_Android_v0.3.46.apk",
-        "version": "0.3.46",
-        "version_code": 49,
+        "filename": "SymbianLauncher_Android_v0.3.47.apk",
+        "version": "0.3.47",
+        "version_code": 50,
         "package_name": "com.nexus.symbianlauncher",
-        "sha256": "1D2EAEAC03F172F5B1EB50B0A348205C4C5A7BEE077272C92C7ADF45DEC76F1D",
-        "size_mb": 26.64,
+        "sha256": "189E3DECF9A33B5E9761B8BE5C703736F2003835993A604BB15FCC9F5A011AF8",
+        "size_mb": 25.92,
         "latest_changelog": [
-          "Widget de atalhos com 4 ícones por padrão; no modo edição, toque abre a escolha 4 ícones ou 8 (4x2).",
-          "Modo edição: listras diagonais na tela toda, de borda a borda, até a barra inferior.",
-          "Efeito de pressionar nos botões da barra (softkeys) pega o botão inteiro."
+          "Widget de Wi-Fi real: mostra o nome da rede e o sinal de verdade; toque abre as configurações de Wi-Fi.",
+          "Tela de atualização de software no visual do Symbian^3: fundo claro, texto preto e softkeys cinza.",
+          "Atalhos com 4 ícones por padrão; no modo edição, popup para escolher 4 ou 8 (4x2).",
+          "Modo edição: listras diagonais na tela toda, de borda a borda.",
+          "Efeito de pressionar nos botões das barras pega o botão inteiro."
         ],
-        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQB7W3zKcqfBT48qfTtYW3jIAdeS_PBcTQlnOuwE5j6jyHc",
-        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.46.apk"
+        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQB80Id7Xp2BQLpLvdk_lS4IAQPAv7FvbPtjaUWK7OxSAkA",
+        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.47.apk"
       },
-      "version": "0.3.46",
+      "version": "0.3.47",
       "latest_changelog": [
-        "Widget de atalhos com 4 ícones por padrão; no modo edição, toque abre a escolha 4 ícones ou 8 (4x2).",
-        "Modo edição: listras diagonais na tela toda, de borda a borda, até a barra inferior.",
-        "Efeito de pressionar nos botões da barra (softkeys) pega o botão inteiro."
+        "Widget de Wi-Fi real: mostra o nome da rede e o sinal de verdade; toque abre as configurações de Wi-Fi.",
+        "Tela de atualização de software no visual do Symbian^3: fundo claro, texto preto e softkeys cinza.",
+        "Atalhos com 4 ícones por padrão; no modo edição, popup para escolher 4 ou 8 (4x2).",
+        "Modo edição: listras diagonais na tela toda, de borda a borda.",
+        "Efeito de pressionar nos botões das barras pega o botão inteiro."
       ],
       "banner": "",
       "banner_card": "",
