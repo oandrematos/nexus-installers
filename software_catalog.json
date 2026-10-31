@@ -2,7 +2,7 @@
   "store_name": "Nexus Store",
   "developer": "André (Antigravity)",
   "schema_version": "3.0.0",
-  "updated_at": "2026-10-31T12:00:00-03:00",
+  "updated_at": "2026-10-31T13:29:04",
   "categories": [
     {
       "id": "games",
@@ -1601,27 +1601,27 @@
         "android"
       ],
       "android": {
-        "filename": "SymbianLauncher_Android_v0.3.52.apk",
-        "version": "0.3.52",
-        "version_code": 55,
+        "filename": "SymbianLauncher_Android_v0.3.53.apk",
+        "version": "0.3.53",
+        "version_code": 56,
         "package_name": "com.nexus.symbianlauncher",
-        "sha256": "64471F9A46DE212E52F82B0CE9A19C23529595966327FFFCA688DAE47BC25E86",
+        "sha256": "ABCF9EFD8A939AAFA544AA59C399E2D7163B972390CD0E75F5B2ADD0AF912F32",
         "size_mb": 25.92,
         "latest_changelog": [
-          "Novo menu de Temas com nome de cada tema e prévia: Symbian escuro e Symbian claro.",
-          "Tema escolhido aplica o visual inteiro (fundo, cartões, barras) de uma vez.",
-          "Barras com a cor do material original (teal-azulado do Symbian^3).",
-          "Tema claro: cartões brancos com texto preto, menu claro, abas e painel de conectividade legíveis."
+          "Corrigido de vez: trocar de tema agora aplica (o menu gravava 'escuro/claro' e o codigo comparava 'dark', entao os dois ficavam iguais).",
+          "Tema original restaurado: barras azuis do Symbian^3 nos temas escuro e claro.",
+          "Novo tema 'Symbian material' (escuro) com as barras azul-esverdeadas do material que o Diretor indicou.",
+          "Menu de Temas com os tres nomes e a previa de cada um; app Clima passa a seguir o tema."
         ],
-        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQCqu9zuG6-LQIT_P8Xm_VjtAWgerFetYlHFFuv4JbHLQes",
-        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.52.apk"
+        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQBvOa29c7b0QIkm76vBjZhgAcaYSDA-liR38TXqHu7QD-M",
+        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.53.apk"
       },
-      "version": "0.3.52",
+      "version": "0.3.53",
       "latest_changelog": [
-        "Novo menu de Temas com nome de cada tema e prévia: Symbian escuro e Symbian claro.",
-        "Tema escolhido aplica o visual inteiro (fundo, cartões, barras) de uma vez.",
-        "Barras com a cor do material original (teal-azulado do Symbian^3).",
-        "Tema claro: cartões brancos com texto preto, menu claro, abas e painel de conectividade legíveis."
+        "Corrigido de vez: trocar de tema agora aplica (o menu gravava 'escuro/claro' e o codigo comparava 'dark', entao os dois ficavam iguais).",
+        "Tema original restaurado: barras azuis do Symbian^3 nos temas escuro e claro.",
+        "Novo tema 'Symbian material' (escuro) com as barras azul-esverdeadas do material que o Diretor indicou.",
+        "Menu de Temas com os tres nomes e a previa de cada um; app Clima passa a seguir o tema."
       ],
       "banner": "",
       "banner_card": "",
