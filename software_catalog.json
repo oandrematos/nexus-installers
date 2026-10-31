@@ -2,7 +2,7 @@
   "store_name": "Nexus Store",
   "developer": "André (Antigravity)",
   "schema_version": "3.0.0",
-  "updated_at": "2026-10-31T16:01:34-03:00",
+  "updated_at": "2026-10-31T16:56:27-03:00",
   "categories": [
     {
       "id": "games",
@@ -1601,25 +1601,25 @@
         "android"
       ],
       "android": {
-        "filename": "SymbianLauncher_Android_v0.3.56.apk",
-        "version": "0.3.56",
-        "version_code": 59,
+        "filename": "SymbianLauncher_Android_v0.3.57.apk",
+        "version": "0.3.57",
+        "version_code": 60,
         "package_name": "com.nexus.symbianlauncher",
-        "sha256": "44FE5C12A61A61DBC79D0C51A5C1C46CA68153D96FA90E805DBEB8901E5BE20F",
+        "sha256": "DDF580411AAE640FDB4607F7726ABD341BAE86A00271B94F2619BE406A1E2E0C",
         "size_mb": 25.97,
         "latest_changelog": [
-          "Transicoes Symbian^3: Home/Menu com zoom central, apps e telas com fade+escala, popups subindo, troca grade/lista/Aplicativos animada.",
-          "Mostrar aplicativos abertos igual ao N8: dialogo flutuante 'Aplicativos abertos (N)', carrossel de miniaturas com botao X 3D e Fechar todos.",
-          "Deteccao real de apps abertos (internos do launcher e Android) com bolinha verde no Menu, lista, pasta Aplicativos e Opcoes."
+          "Cartao flutuante de Opcoes fiel ao N8: botoes azuis embutidos dentro da moldura cinza arredondada com fresta da barra inferior visivel por baixo.",
+          "Fonte original Nokia Sans Title SmBd S60 aplicada em 100% da interface do launcher (incluindo todos os apps internos e dialogos).",
+          "Transicoes Symbian^3, gerenciador 'Aplicativos abertos (N)' igual ao N8 e bolinha verde nos apps em execucao."
         ],
-        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQCd5mF_zXaWQIqmHCGKCRxfAQyL9-O2-Pr-OWFqS7JJRBI",
-        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.56.apk"
+        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQAu8TJpaP53RL7Hmp6CaswhATmJ_vPU4AAhjBjR7yimU9Y",
+        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.57.apk"
       },
-      "version": "0.3.56",
+      "version": "0.3.57",
       "latest_changelog": [
-        "Transicoes Symbian^3: Home/Menu com zoom central, apps e telas com fade+escala, popups subindo, troca grade/lista/Aplicativos animada.",
-        "Mostrar aplicativos abertos igual ao N8: dialogo flutuante 'Aplicativos abertos (N)', carrossel de miniaturas com botao X 3D e Fechar todos.",
-        "Deteccao real de apps abertos (internos do launcher e Android) com bolinha verde no Menu, lista, pasta Aplicativos e Opcoes."
+        "Cartao flutuante de Opcoes fiel ao N8: botoes azuis embutidos dentro da moldura cinza arredondada com fresta da barra inferior visivel por baixo.",
+        "Fonte original Nokia Sans Title SmBd S60 aplicada em 100% da interface do launcher (incluindo todos os apps internos e dialogos).",
+        "Transicoes Symbian^3, gerenciador 'Aplicativos abertos (N)' igual ao N8 e bolinha verde nos apps em execucao."
       ],
       "banner": "",
       "banner_card": "",
