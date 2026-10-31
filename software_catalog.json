@@ -1601,23 +1601,23 @@
         "android"
       ],
       "android": {
-        "filename": "SymbianLauncher_Android_v0.3.54.apk",
-        "version": "0.3.54",
-        "version_code": 57,
+        "filename": "SymbianLauncher_Android_v0.3.55.apk",
+        "version": "0.3.55",
+        "version_code": 58,
         "package_name": "com.nexus.symbianlauncher",
-        "sha256": "F723863A25644344353DC88A31C6F63E406E79D8227176DA6E99FE1E339EF4F0",
+        "sha256": "86D53C8F3F61E2120B44AFFBF3011D4CF7A52B23B54EA7441E4BFF823ECE4468",
         "size_mb": 25.92,
         "latest_changelog": [
-          "Tema claro: nuvem do clima e a bolha de eventos perdidos agora têm contorno visível sobre os cartões brancos.",
-          "App Clima segue o tema também na barra de softkeys."
+          "Home com duracoes medidas nas fontes Symbian^3: slide de pagina linear de 300 ms, threshold de troca de 120 px.",
+          "Animacoes originais: escala de drag de widget para 1.1x em 250 ms, sombra e drop em 200 ms, fade de snap em 100 ms e pulso do indicador de pagina em 800 ms."
         ],
-        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQDYrQY4K-MZRqYQiMNWPAatASsFxBOEpDblPDqZkfqlRTs",
-        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.54.apk"
+        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQC94Z0aOCbJRJ0JGgtBgCnGAW1tpiMvZn93UoqUZywALXI",
+        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.55.apk"
       },
-      "version": "0.3.54",
+      "version": "0.3.55",
       "latest_changelog": [
-        "Tema claro: nuvem do clima e a bolha de eventos perdidos agora têm contorno visível sobre os cartões brancos.",
-        "App Clima segue o tema também na barra de softkeys."
+        "Home com duracoes medidas nas fontes Symbian^3: slide de pagina linear de 300 ms, threshold de troca de 120 px.",
+        "Animacoes originais: escala de drag de widget para 1.1x em 250 ms, sombra e drop em 200 ms, fade de snap em 100 ms e pulso do indicador de pagina em 800 ms."
       ],
       "banner": "",
       "banner_card": "",
