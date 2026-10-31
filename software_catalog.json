@@ -2,7 +2,7 @@
   "store_name": "Nexus Store",
   "developer": "André (Antigravity)",
   "schema_version": "3.0.0",
-  "updated_at": "2026-10-31T13:38:26",
+  "updated_at": "2026-10-31T16:01:34-03:00",
   "categories": [
     {
       "id": "games",
@@ -1601,23 +1601,25 @@
         "android"
       ],
       "android": {
-        "filename": "SymbianLauncher_Android_v0.3.55.apk",
-        "version": "0.3.55",
-        "version_code": 58,
+        "filename": "SymbianLauncher_Android_v0.3.56.apk",
+        "version": "0.3.56",
+        "version_code": 59,
         "package_name": "com.nexus.symbianlauncher",
-        "sha256": "86D53C8F3F61E2120B44AFFBF3011D4CF7A52B23B54EA7441E4BFF823ECE4468",
-        "size_mb": 25.92,
+        "sha256": "44FE5C12A61A61DBC79D0C51A5C1C46CA68153D96FA90E805DBEB8901E5BE20F",
+        "size_mb": 25.97,
         "latest_changelog": [
-          "Home com duracoes medidas nas fontes Symbian^3: slide de pagina linear de 300 ms, threshold de troca de 120 px.",
-          "Animacoes originais: escala de drag de widget para 1.1x em 250 ms, sombra e drop em 200 ms, fade de snap em 100 ms e pulso do indicador de pagina em 800 ms."
+          "Transicoes Symbian^3: Home/Menu com zoom central, apps e telas com fade+escala, popups subindo, troca grade/lista/Aplicativos animada.",
+          "Mostrar aplicativos abertos igual ao N8: dialogo flutuante 'Aplicativos abertos (N)', carrossel de miniaturas com botao X 3D e Fechar todos.",
+          "Deteccao real de apps abertos (internos do launcher e Android) com bolinha verde no Menu, lista, pasta Aplicativos e Opcoes."
         ],
-        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQC94Z0aOCbJRJ0JGgtBgCnGAW1tpiMvZn93UoqUZywALXI",
-        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.55.apk"
+        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQCd5mF_zXaWQIqmHCGKCRxfAQyL9-O2-Pr-OWFqS7JJRBI",
+        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.56.apk"
       },
-      "version": "0.3.55",
+      "version": "0.3.56",
       "latest_changelog": [
-        "Home com duracoes medidas nas fontes Symbian^3: slide de pagina linear de 300 ms, threshold de troca de 120 px.",
-        "Animacoes originais: escala de drag de widget para 1.1x em 250 ms, sombra e drop em 200 ms, fade de snap em 100 ms e pulso do indicador de pagina em 800 ms."
+        "Transicoes Symbian^3: Home/Menu com zoom central, apps e telas com fade+escala, popups subindo, troca grade/lista/Aplicativos animada.",
+        "Mostrar aplicativos abertos igual ao N8: dialogo flutuante 'Aplicativos abertos (N)', carrossel de miniaturas com botao X 3D e Fechar todos.",
+        "Deteccao real de apps abertos (internos do launcher e Android) com bolinha verde no Menu, lista, pasta Aplicativos e Opcoes."
       ],
       "banner": "",
       "banner_card": "",
