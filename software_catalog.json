@@ -2,7 +2,7 @@
   "store_name": "Nexus Store",
   "developer": "André (Antigravity)",
   "schema_version": "3.0.0",
-  "updated_at": "2026-10-31T13:29:04",
+  "updated_at": "2026-10-31T13:38:26",
   "categories": [
     {
       "id": "games",
@@ -1601,27 +1601,23 @@
         "android"
       ],
       "android": {
-        "filename": "SymbianLauncher_Android_v0.3.53.apk",
-        "version": "0.3.53",
-        "version_code": 56,
+        "filename": "SymbianLauncher_Android_v0.3.54.apk",
+        "version": "0.3.54",
+        "version_code": 57,
         "package_name": "com.nexus.symbianlauncher",
-        "sha256": "ABCF9EFD8A939AAFA544AA59C399E2D7163B972390CD0E75F5B2ADD0AF912F32",
+        "sha256": "F723863A25644344353DC88A31C6F63E406E79D8227176DA6E99FE1E339EF4F0",
         "size_mb": 25.92,
         "latest_changelog": [
-          "Corrigido de vez: trocar de tema agora aplica (o menu gravava 'escuro/claro' e o codigo comparava 'dark', entao os dois ficavam iguais).",
-          "Tema original restaurado: barras azuis do Symbian^3 nos temas escuro e claro.",
-          "Novo tema 'Symbian material' (escuro) com as barras azul-esverdeadas do material que o Diretor indicou.",
-          "Menu de Temas com os tres nomes e a previa de cada um; app Clima passa a seguir o tema."
+          "Tema claro: nuvem do clima e a bolha de eventos perdidos agora têm contorno visível sobre os cartões brancos.",
+          "App Clima segue o tema também na barra de softkeys."
         ],
-        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQBvOa29c7b0QIkm76vBjZhgAcaYSDA-liR38TXqHu7QD-M",
-        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.53.apk"
+        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQDYrQY4K-MZRqYQiMNWPAatASsFxBOEpDblPDqZkfqlRTs",
+        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.54.apk"
       },
-      "version": "0.3.53",
+      "version": "0.3.54",
       "latest_changelog": [
-        "Corrigido de vez: trocar de tema agora aplica (o menu gravava 'escuro/claro' e o codigo comparava 'dark', entao os dois ficavam iguais).",
-        "Tema original restaurado: barras azuis do Symbian^3 nos temas escuro e claro.",
-        "Novo tema 'Symbian material' (escuro) com as barras azul-esverdeadas do material que o Diretor indicou.",
-        "Menu de Temas com os tres nomes e a previa de cada um; app Clima passa a seguir o tema."
+        "Tema claro: nuvem do clima e a bolha de eventos perdidos agora têm contorno visível sobre os cartões brancos.",
+        "App Clima segue o tema também na barra de softkeys."
       ],
       "banner": "",
       "banner_card": "",
