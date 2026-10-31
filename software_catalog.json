@@ -2,7 +2,7 @@
   "store_name": "Nexus Store",
   "developer": "André (Antigravity)",
   "schema_version": "3.0.0",
-  "updated_at": "2026-10-31T10:55:00-03:00",
+  "updated_at": "2026-10-31T12:00:00-03:00",
   "categories": [
     {
       "id": "games",
@@ -1601,31 +1601,27 @@
         "android"
       ],
       "android": {
-        "filename": "SymbianLauncher_Android_v0.3.50.apk",
-        "version": "0.3.50",
-        "version_code": 53,
+        "filename": "SymbianLauncher_Android_v0.3.52.apk",
+        "version": "0.3.52",
+        "version_code": 55,
         "package_name": "com.nexus.symbianlauncher",
-        "sha256": "8214EFBC630743C6CC591218AABA8BFAEC6F4B359520C9230F8FEF640072F679",
-        "size_mb": 26.67,
+        "sha256": "64471F9A46DE212E52F82B0CE9A19C23529595966327FFFCA688DAE47BC25E86",
+        "size_mb": 25.92,
         "latest_changelog": [
-          "Removida a tela escondida de preset (toque e segure na barra de status) e o atalho que a abria.",
-          "Ícones das Configurações com fundo transparente (sem quadrado preto).",
-          "\"Temas\" virou \"Papel de parede\" na lista; o tema claro/escuro fica em Configurações de aplicativos > Tema.",
-          "Fundo dos apps segue o tema (preto no escuro, branco no claro); barras de softkeys sempre azuis.",
-          "Efeito de apertar escurece o botão inteiro (afundando), não só o texto.",
-          "Widget de Wi-Fi real (nome da rede e sinal) e abre as configurações de Wi-Fi."
+          "Novo menu de Temas com nome de cada tema e prévia: Symbian escuro e Symbian claro.",
+          "Tema escolhido aplica o visual inteiro (fundo, cartões, barras) de uma vez.",
+          "Barras com a cor do material original (teal-azulado do Symbian^3).",
+          "Tema claro: cartões brancos com texto preto, menu claro, abas e painel de conectividade legíveis."
         ],
-        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQANuqE-vZLbTK3Hc-ngsDY1Aa-KUzGWanve6F7QGkdWSGM",
-        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.50.apk"
+        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQCqu9zuG6-LQIT_P8Xm_VjtAWgerFetYlHFFuv4JbHLQes",
+        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.52.apk"
       },
-      "version": "0.3.50",
+      "version": "0.3.52",
       "latest_changelog": [
-        "Removida a tela escondida de preset (toque e segure na barra de status) e o atalho que a abria.",
-        "Ícones das Configurações com fundo transparente (sem quadrado preto).",
-        "\"Temas\" virou \"Papel de parede\" na lista; o tema claro/escuro fica em Configurações de aplicativos > Tema.",
-        "Fundo dos apps segue o tema (preto no escuro, branco no claro); barras de softkeys sempre azuis.",
-        "Efeito de apertar escurece o botão inteiro (afundando), não só o texto.",
-        "Widget de Wi-Fi real (nome da rede e sinal) e abre as configurações de Wi-Fi."
+        "Novo menu de Temas com nome de cada tema e prévia: Symbian escuro e Symbian claro.",
+        "Tema escolhido aplica o visual inteiro (fundo, cartões, barras) de uma vez.",
+        "Barras com a cor do material original (teal-azulado do Symbian^3).",
+        "Tema claro: cartões brancos com texto preto, menu claro, abas e painel de conectividade legíveis."
       ],
       "banner": "",
       "banner_card": "",
