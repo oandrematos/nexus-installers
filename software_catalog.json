@@ -2,7 +2,7 @@
   "store_name": "Nexus Store",
   "developer": "André (Antigravity)",
   "schema_version": "3.0.0",
-  "updated_at": "2026-10-31T06:08:00-03:00",
+  "updated_at": "2026-10-31T09:40:00-03:00",
   "categories": [
     {
       "id": "games",
@@ -1601,25 +1601,25 @@
         "android"
       ],
       "android": {
-        "filename": "SymbianLauncher_Android_v0.3.44.apk",
-        "version": "0.3.44",
-        "version_code": 47,
+        "filename": "SymbianLauncher_Android_v0.3.46.apk",
+        "version": "0.3.46",
+        "version_code": 49,
         "package_name": "com.nexus.symbianlauncher",
-        "sha256": "97C47CEF00892BD3FD82FE8280995F00F48415440B800D7F4475A57F628BCA90",
-        "size_mb": 25.9,
+        "sha256": "1D2EAEAC03F172F5B1EB50B0A348205C4C5A7BEE077272C92C7ADF45DEC76F1D",
+        "size_mb": 26.64,
         "latest_changelog": [
-          "OTA: confirma na volta quando a atualização foi instalada (aviso \"Launcher atualizado para ...\").",
-          "OTA: nunca instala APK mais antigo que o instalado e limpa restos de instalações pendentes.",
-          "Widget funcional: Relógio, Calendário e perfil Normal/Vibrar/Silencioso."
+          "Widget de atalhos com 4 ícones por padrão; no modo edição, toque abre a escolha 4 ícones ou 8 (4x2).",
+          "Modo edição: listras diagonais na tela toda, de borda a borda, até a barra inferior.",
+          "Efeito de pressionar nos botões da barra (softkeys) pega o botão inteiro."
         ],
-        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQDeCm2W6RXaTIE_0NMV-YO-AbVfyHur4WXJ9xv9skuZnik",
-        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.44.apk"
+        "download_url": "https://1drv.ms/u/c/7E3AF88ED490C9AC/IQB7W3zKcqfBT48qfTtYW3jIAdeS_PBcTQlnOuwE5j6jyHc",
+        "fallback_download_url": "https://yamaha-robertson-diana-sheer.trycloudflare.com/installers/SymbianLauncher_Android_v0.3.46.apk"
       },
-      "version": "0.3.44",
+      "version": "0.3.46",
       "latest_changelog": [
-        "OTA: confirma na volta quando a atualização foi instalada (aviso \"Launcher atualizado para ...\").",
-        "OTA: nunca instala APK mais antigo que o instalado e limpa restos de instalações pendentes.",
-        "Widget funcional: Relógio, Calendário e perfil Normal/Vibrar/Silencioso."
+        "Widget de atalhos com 4 ícones por padrão; no modo edição, toque abre a escolha 4 ícones ou 8 (4x2).",
+        "Modo edição: listras diagonais na tela toda, de borda a borda, até a barra inferior.",
+        "Efeito de pressionar nos botões da barra (softkeys) pega o botão inteiro."
       ],
       "banner": "",
       "banner_card": "",
